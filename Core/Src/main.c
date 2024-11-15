@@ -106,8 +106,6 @@ int main(void)
 
 
 
-  unsigned char arr[] = {0, 0, 0, 0, 0, 128, 0, 0, 0, 0, 0};
-
 
 
 
@@ -118,7 +116,6 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-
 
 	  //HAL_Delay(500);
 
